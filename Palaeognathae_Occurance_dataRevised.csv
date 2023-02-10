@@ -1,0 +1,382 @@
+accepted_name,accepted_attr,accepted_rank,accepted_no,early_interval,max_ma,min_ma,reference_no,Longitude,latitude,cc,paleomodel,paleolng,paleolat,geoplate
+Emuarius gidju,,species,53358,Oligocene,28.4,15.97,4424,140.733337,-27.75,AU,gp_mid,143.36,-39.46,801
+Dromaius,,genus,173845,Miocene,15.97,11.608,4424,131.522217,-17.116667,AU,gp_mid,131.11,-25.91,801
+Dromaius,,genus,173845,Miocene,11.608,5.333,4424,133.883331,-23.700001,AU,gp_mid,133.87,-28.94,801
+Dromaius ocypus,,species,53357,Pliocene,5.333,2.588,4424,140.733337,-27.75,AU,gp_mid,140.94,-30.23,801
+Dromaius novaehollandiae,,species,164088,Pliocene,5.333,3.6,4424,138.416672,-28.766666,AU,gp_mid,,,N/A
+Dromaius,,genus,173845,Pliocene,5.333,3.6,4424,138.416672,-28.766666,AU,gp_mid,,,N/A
+Dromaius ocypus,,species,53357,Pliocene,5.333,2.588,4424,140.733337,-27.75,AU,gp_mid,140.94,-30.23,801
+Dromaius novaehollandiae,,species,164088,Pliocene,5.333,3.6,4424,150.633331,-26.75,AU,gp_mid,,,N/A
+Dromaius,,genus,173845,Pleistocene,0.126,0.0117,4424,140.733337,-27.75,AU,gp_mid,,,N/A
+Lithornis vulturinus,,species,246687,Eocene,55.8,48.6,4416,0.75,51.25,UK,gp_mid,8.18,42.43,315
+Paracathartes howardae,,species,246699,Eocene,55.8,48.6,4416,-108.37944,43.025002,US,gp_mid,-81.69,50.67,101
+Struthionidae,,family,39276,Miocene,15.97,11.608,4922,16.5,-28.25,NA,gp_mid,,,N/A
+Struthio camelus,,species,223891,Holocene,0.0117,0,5213,24.633301,-27.616699,ZA,gp_mid,24.63,-27.62,701
+Struthio camelus,,species,223891,Holocene,0.0117,0,5214,25.549999,-28.6667,ZA,gp_mid,25.55,-28.67,701
+Struthio camelus,,species,223891,Holocene,0.0117,0,5222,29.0833,25.799999,EG,gp_mid,29.08,25.8,715
+Struthio camelus,,species,223891,Holocene,0.0117,0,5227,23.0333,-28.205601,ZA,gp_mid,23.03,-28.21,701
+Struthio camelus,,species,223891,Holocene,0.0117,0,5221,25.5,23,EG,gp_mid,25.5,23,715
+Struthio camelus,,species,223891,Holocene,0.0117,0,5213,24.633301,-27.616699,ZA,gp_mid,24.63,-27.62,701
+Struthio camelus,,species,223891,Pleistocene,2.588,0.0117,5213,24.633301,-27.616699,ZA,gp_mid,24.57,-27.89,701
+Struthio camelus,,species,223891,Pleistocene,2.588,0.0117,5252,18,-33,ZA,gp_mid,17.9,-33.26,701
+Struthio,,genus,39278,Pleistocene,2.588,0.781,4954,35.345798,-2.9875,TZ,gp_mid,35.29,-3.58,712
+Struthio,,genus,39278,Pleistocene,1.806,0.781,4478,34.3167,-2.979,TZ,gp_mid,34.29,-3.27,712
+Struthio,,genus,39278,Pleistocene,1.806,0.781,4478,34.3167,-2.979,TZ,gp_mid,34.29,-3.27,712
+Struthio camelus,,species,223891,Pleistocene,0.126,0.0117,5318,29.6,-0.135,CD,gp_mid,29.6,-0.14,701
+Struthio camelus,,species,223891,Holocene,0.0117,0,5318,29.6,-0.135,CD,gp_mid,29.6,-0.14,701
+Struthio camelus,,species,223891,Pleistocene,2.588,0,5325,29.823,1.374,CD,gp_mid,29.83,1.09,701
+Struthio camelus,,species,223891,Pleistocene,2.588,0,5283,33.766701,-4.033,TZ,gp_mid,33.74,-4.33,712
+Struthio,,genus,39278,Miocene,23.03,2.588,5401,18.15,-32.976002,ZA,gp_mid,16.74,-36.31,701
+Struthio,,genus,39278,Pliocene,5.333,3.6,5391,18.15,-32.976002,ZA,gp_mid,17.74,-34.01,701
+Struthio,,genus,39278,Pliocene,5.333,3.6,5423,18.15,-32.976002,ZA,gp_mid,17.74,-34.01,701
+Struthio,,genus,39278,Miocene,7.246,2.588,8636,36.049999,2.9,KE,gp_mid,,,N/A
+Struthio,,genus,39278,Miocene,11.62,5.333,8636,36.049999,2.9,KE,gp_mid,,,N/A
+Struthio,,genus,39278,Pleistocene,0.781,0.0117,5569,36,0.5,KE,gp_mid,,,N/A
+Struthio,,genus,39278,Pleistocene,1.806,0.781,4784,35.334702,-2.989,TZ,gp_mid,35.31,-3.28,712
+Struthio,,genus,39278,Pliocene,3.6,2.588,5649,30.25,30.4167,EG,gp_mid,,,N/A
+Struthio,,genus,39278,Pleistocene,2.588,1.806,4948,35.3736,-2.9806,TZ,gp_mid,35.32,-3.57,712
+Struthio,,genus,39278,Pleistocene,2.588,1.806,4659,35.3736,-2.9806,TZ,gp_mid,35.32,-3.57,712
+Struthio,,genus,39278,Pleistocene,1.806,0.781,4478,35.327801,-2.9916,TZ,gp_mid,35.3,-3.29,712
+Struthio,,genus,39278,Pleistocene,1.806,0.781,5653,35.344398,-2.9861,TZ,gp_mid,,,N/A
+Struthio,,genus,39278,Miocene,13.82,11.62,4655,35.341999,-0.225,KE,gp_mid,34.98,-4.06,712
+Struthio camelus,,species,223891,Pleistocene,2.588,0,5220,36.25,15.25,SD,gp_mid,36.27,14.96,715
+Struthio camelus,,species,223891,Pleistocene,2.588,0.0117,5241,18.6833,-34.083302,ZA,gp_mid,18.58,-34.34,701
+Struthio camelus,,species,223891,Pleistocene,2.588,0,5249,21.866699,-33.511101,ZA,gp_mid,21.78,-33.78,701
+Struthionidae,,family,39276,Pleistocene,2.588,0.781,4952,35.361099,-3,TZ,gp_mid,35.31,-3.59,712
+Struthio,,genus,39278,Pleistocene,2.588,0.0117,4892,27.7208,-26.016701,ZA,gp_mid,27.67,-26.3,701
+Struthio,,genus,39278,Pleistocene,2.588,0.0117,4895,27.7208,-26.016701,ZA,gp_mid,27.67,-26.3,701
+Struthio camelus,,species,223891,Holocene,0.0117,0,5230,33.75,16.25,SD,gp_mid,33.75,16.25,715
+Struthio camelus,,species,223891,Holocene,0.0117,0,5230,33.75,16.25,SD,gp_mid,33.75,16.25,715
+Struthio camelus,,species,223891,Holocene,0.0117,0,5230,33.75,16.25,SD,gp_mid,33.75,16.25,715
+Struthio camelus,,species,223891,Holocene,0.0117,0,5230,33.75,16.25,SD,gp_mid,33.75,16.25,715
+Struthio,,genus,39278,Pleistocene,2.588,0.781,5275,35.344398,-2.9861,TZ,gp_mid,35.29,-3.58,712
+Struthio,,genus,39278,Pleistocene,1.806,0.781,5269,35.362499,-2.9903,TZ,gp_mid,35.34,-3.29,712
+Struthio,,genus,39278,Pleistocene,1.806,0.781,4945,35.287498,-2.9583,TZ,gp_mid,35.26,-3.25,712
+Struthio,,genus,39278,Pliocene,3.6,0.0117,5531,27.75,-26,ZA,gp_mid,,,N/A
+Struthionidae,,family,39276,Pleistocene,1.806,0.781,5615,35.347198,-2.986,TZ,gp_mid,35.32,-3.28,712
+Struthionidae,,family,39276,Pleistocene,2.588,1.806,5276,35.3736,-2.9806,TZ,gp_mid,35.32,-3.57,712
+Struthionidae,,family,39276,Pliocene,5.333,2.588,4451,35.205601,-3.2208,TZ,gp_mid,35.1,-4.4,712
+Struthionidae,,family,39276,Pliocene,5.333,2.588,4451,35.205601,-3.2208,TZ,gp_mid,35.1,-4.4,712
+Struthionidae,,family,39276,Pleistocene,2.588,0.781,4732,35.344398,-2.9861,TZ,gp_mid,35.29,-3.58,712
+Dromaius novaehollandiae,,species,164088,Pleistocene,0.781,0.126,7795,140.830551,-37.041668,AU,gp_mid,140.83,-37.04,801
+Struthionidae,,family,39276,Pliocene,5.333,0.0117,7905,111.5,40,CN,gp_mid,110.94,39.73,604
+Struthionidae,,family,39276,Miocene,11.608,5.333,7915,52.326389,24.003611,AE,gp_mid,51.53,20.5,503
+Struthionidae,,family,39276,Pliocene,5.333,2.588,4451,35.130001,-3.13,TZ,gp_mid,35.03,-4.31,712
+Struthio,,genus,39278,Pliocene,3.6,2.588,5595,-7.65,33.583332,MA,gp_mid,-7.16,33.08,707
+Aepyornithidae,,family,39292,Miocene,11.62,5.333,8636,36.049999,2.9,KE,gp_mid,,,N/A
+Struthio,,genus,39278,Miocene,11.62,5.333,8636,36.049999,2.9,KE,gp_mid,,,N/A
+Struthio,,genus,39278,Miocene,7.246,3.6,8636,36.049999,2.9,KE,gp_mid,,,N/A
+Struthio,,genus,39278,Pliocene,5.333,2.588,8636,36.049999,2.9,KE,gp_mid,,,N/A
+Struthio,,genus,39278,Pliocene,5.333,2.588,8636,36.049999,2.9,KE,gp_mid,35.94,1.72,712
+Struthio,,genus,39278,Pleistocene,2.588,0.0117,9024,-5.35,33.633331,MA,gp_mid,-5.19,33.46,707
+Struthio,,genus,39278,Pliocene,5.333,3.2,9585,32.866669,39.933334,TR,gp_mid,33.01,39.11,510
+Struthio,,genus,39278,Pliocene,5.333,2.588,9043,77,43,KG,gp_mid,76.61,42.33,402
+Struthio,,genus,39278,Miocene,11.608,5.333,9170,-0.1,35.299999,DZ,gp_mid,1.14,33.7,707
+Struthio,,genus,39278,Miocene,13.82,7.246,9493,8,34,TN,gp_mid,,,N/A
+Struthio,,genus,39278,Miocene,13.82,7.246,9493,8,34,TN,gp_mid,,,N/A
+Struthio (Pachystruthio) pannonicus,,species,429233,Pliocene,3.2,2.588,9534,18.383333,46.966667,HU,gp_mid,18.86,46.19,308
+Casuarius,,genus,39287,Pliocene,3.6,2.588,9728,146.050003,-7.016667,PG,gp_mid,146.62,-9.21,800
+Diogenornis fragilis,,species,246685,Eocene,55.8,48.6,10425,-41.549999,-22.1,BR,gp_mid,,,N/A
+Struthio,,genus,39278,Pleistocene,2.588,0.781,10617,30.520555,39.776669,TR,gp_mid,30.63,39.36,504
+Struthio asiaticus,,species,223880,Pleistocene,2.588,0.0117,10958,53.5,39,TM,gp_mid,53.49,38.79,402
+Struthio,,genus,39278,Pliocene,5.333,2.588,10960,39.71389,47.236389,RU,gp_mid,39.78,46.41,302
+Struthio,,genus,39278,Miocene,11.608,8.7,11166,44.633331,34.483334,IQ,gp_mid,44.44,30.39,503
+Struthio,,genus,39278,Pleistocene,0.781,0.126,11378,-8.874444,31.869167,MA,gp_mid,-8.87,31.87,707
+Palaeotis weigelti,,species,246686,Eocene,47.8,41.3,11714,11.953611,51.321945,DE,gp_mid,17.05,43.36,305
+Ratitae,,unranked clade,65004,Cretaceous,70.6,66,12831,5.23333,43.48333,FR,gp_mid,13.42,31.2,305
+Struthio camelus,,species,223891,Pleistocene,0.126,0.0117,13638,17.245277,-30.040556,ZA,gp_mid,17.25,-30.04,701
+Struthio,,genus,39278,Miocene,11.608,5.333,13638,17.290001,-30.285,ZA,gp_mid,16.51,-32.33,701
+Struthio,,genus,39278,Pleistocene,2.588,0.781,13687,114.664169,40.225277,CN,gp_mid,114.29,40.05,604
+Rheidae,,family,39283,Miocene,9,6.8,15016,-60.233334,-31.483334,AR,gp_mid,-58.44,-31.26,202
+Rhea americana,,species,83730,Holocene,0.0117,0,17632,-61.75,-38.583332,AR,gp_mid,-61.75,-38.58,202
+Rheidae,,family,39283,Pleistocene,0.781,0.012,17632,-62.083332,-38.533333,AR,gp_mid,-62.08,-38.53,202
+Rhea,,genus,83729,Holocene,0.0117,0,17632,-62.083332,-38.533333,AR,gp_mid,-62.08,-38.53,202
+Nothura darwinii,,species,372661,Holocene,0.0117,0,17632,-62.083332,-38.533333,AR,gp_mid,-62.08,-38.53,202
+Tinamidae,,family,39268,Holocene,0.0117,0,17632,-62.083332,-38.533333,AR,gp_mid,-62.08,-38.53,202
+Rhea,,genus,83729,Pleistocene,0.781,0.126,17632,-61.766666,-38.5,AR,gp_mid,-61.77,-38.5,202
+Eremopezus eocaenus,,species,86260,Oligocene,33.9,28.1,11955,30.575405,29.641937,EG,gp_mid,31.91,20.75,715
+Rhea americana,,species,83730,Holocene,0.0117,0,19694,-63.066666,-20.75,BO,gp_mid,-63.07,-20.75,201
+Crypturellus tataupa,,species,372673,Holocene,0.0117,0,19694,-63.066666,-20.75,BO,gp_mid,-63.07,-20.75,201
+Rhynchotus,,genus,372676,Holocene,0.0117,0,19694,-63.066666,-20.75,BO,gp_mid,-63.07,-20.75,201
+Rhea,,genus,83729,Pleistocene,0.126,0.0117,24013,-70,-46.200001,AR,gp_mid,-70,-46.2,291
+Eudromia,,genus,39269,Pleistocene,0.126,0.0117,24013,-70,-46.200001,AR,gp_mid,-70,-46.2,291
+Rhea,,genus,83729,Holocene,0.0117,0,24752,-67.867775,-47.895,AR,gp_mid,-67.87,-47.9,291
+Rhea americana,,species,83730,Holocene,0.0117,0,24752,-67.867775,-47.895,AR,gp_mid,-67.87,-47.9,291
+Rhea americana,,species,83730,Pleistocene,0.126,0.0117,24073,-58.065834,-37.840557,AR,gp_mid,-58.07,-37.84,202
+Geranoides jepseni,,species,105606,Eocene,55.8,50.3,25086,-108.066666,44.299999,US,gp_mid,-80.03,52.01,101
+Palaeophasianus meleagroides,,species,105758,Eocene,55.8,50.3,25109,-108.050003,44.5,US,gp_mid,-79.91,52.2,101
+Fissuravis weigelti,,species,105806,Paleocene,61.6,59.2,25122,11.065556,52.280556,DE,gp_mid,17.65,41.48,315
+Struthio,,genus,39278,Pleistocene,2.588,0.781,25340,44.195,41.329166,GE,gp_mid,44.22,40.91,511
+Struthio chersonensis,,species,246672,Miocene,11.62,7.246,24838,30.400278,47.153057,UA,gp_mid,30.9,45.29,302
+Struthio,,genus,39278,Miocene,11.62,7.246,24838,30.731943,46.461666,UA,gp_mid,31.21,44.6,302
+Struthio,,genus,39278,Miocene,11.62,7.246,24838,30.534721,46.729168,UA,gp_mid,31.02,44.87,302
+Struthio chersonensis,,species,246672,Miocene,11.62,7.246,24838,33.373333,46.809723,UA,gp_mid,33.77,44.94,302
+Struthio bradydactylus,,species,246674,Miocene,11.62,7.246,24838,33.373333,46.809723,UA,gp_mid,33.77,44.94,302
+Amphipelargus,,genus,39495,Miocene,11.62,7.246,24838,33.373333,46.809723,UA,gp_mid,33.77,44.94,302
+Amphipelargus,,genus,39495,Miocene,13.82,11.62,24838,29.6325,46.852222,MD,gp_mid,30.41,44.15,302
+Struthio chersonensis,,species,246672,Pliocene,5.333,2.588,24838,76.911942,52.303612,RU,gp_mid,76.35,51.64,402
+Struthio chersonensis,,species,246672,MN 15,4.2,2.588,24838,30.5,46.5,UA,gp_mid,30.67,45.88,302
+Struthio camelus,,species,223891,Holocene,0.0117,0,27974,9.833333,16.966667,NE,gp_mid,9.83,16.97,714
+Struthio camelus,,species,223891,Holocene,0.0117,0,27974,9.833333,16.966667,NE,gp_mid,9.83,16.97,714
+Lithornis vulturinus,,species,246687,Eocene,56,47.8,28303,8.75,56.833332,DK,gp_mid,15.36,47.67,302
+Lithornis,,genus,39264,Eocene,56,47.8,28303,8.75,56.833332,DK,gp_mid,15.36,47.67,302
+Lithornithidae,,family,98813,MP 11,48.6,40.4,28308,8.7333,49.9333,DE,gp_mid,14.18,42.07,305
+Eudromia,,genus,39269,Miocene,9,6.8,29353,-63.549999,-37.216667,AR,gp_mid,-61.89,-36.93,202
+Pachyornis elephantopus,,species,143730,Holocene,0.0117,0,29521,170.935837,-45.142223,NZ,gp_mid,170.94,-45.14,807
+Emeus crassus,,species,143735,Holocene,0.0117,0,29521,170.935837,-45.142223,NZ,gp_mid,170.94,-45.14,807
+Dinornis struthoides,,species,143738,Holocene,0.0117,0,29521,170.935837,-45.142223,NZ,gp_mid,170.94,-45.14,807
+Dinornithiformes,,order,39294,Holocene,0.0117,0,29521,170.935837,-45.142223,NZ,gp_mid,170.94,-45.14,807
+Dinornithiformes,,order,39294,Holocene,0.0117,0,29521,170.997223,-45.052223,NZ,gp_mid,171,-45.05,807
+Euryapteryx geranoides,,species,143733,Pleistocene,0.126,0,29521,170.96167,-45.125557,NZ,gp_mid,170.96,-45.13,807
+Pachyornis elephantopus,,species,143730,Pleistocene,0.126,0,29521,170.96167,-45.125557,NZ,gp_mid,170.96,-45.13,807
+Dinornithiformes,,order,39294,Pleistocene,0.126,0.0117,29521,170.850555,-45.107224,NZ,gp_mid,170.85,-45.11,807
+Pachyornis elephantopus,,species,143730,Pleistocene,0.126,0.0117,29521,170.850555,-45.107224,NZ,gp_mid,170.85,-45.11,807
+Emeus crassus,,species,143735,Pleistocene,0.126,0.0117,29521,170.966949,-45.125557,NZ,gp_mid,170.97,-45.13,807
+Pachyornis elephantopus,,species,143730,Pleistocene,0.126,0.0117,29521,170.966949,-45.125557,NZ,gp_mid,170.97,-45.13,807
+Pachyornis elephantopus,,species,143730,Pleistocene,0.126,0.0117,29521,170.966949,-45.125557,NZ,gp_mid,170.97,-45.13,807
+Dinornithiformes,,order,39294,Pleistocene,0.126,0.0117,29521,170.966949,-45.125557,NZ,gp_mid,170.97,-45.13,807
+Emeidae,,family,143729,Pleistocene,0.126,0.0117,29521,170.966949,-45.125557,NZ,gp_mid,170.97,-45.13,807
+Apteryx australis,,species,369211,Pleistocene,0.126,0.0117,29521,170.966949,-45.125557,NZ,gp_mid,170.97,-45.13,807
+Dinornithiformes,,order,39294,Pleistocene,0.126,0.0117,29521,170.968063,-45.125557,NZ,gp_mid,170.97,-45.13,807
+Emeus crassus,,species,143735,Pleistocene,0.126,0.0117,29521,170.968063,-45.125557,NZ,gp_mid,170.97,-45.13,807
+Pachyornis elephantopus,,species,143730,Pleistocene,0.126,0.0117,29521,170.968063,-45.125557,NZ,gp_mid,170.97,-45.13,807
+Euryapteryx geranoides,,species,143733,Pleistocene,0.126,0.0117,29521,170.968063,-45.125557,NZ,gp_mid,170.97,-45.13,807
+Dinornis giganteus,,species,143739,Pleistocene,0.126,0.0117,29521,170.968063,-45.125557,NZ,gp_mid,170.97,-45.13,807
+Apteryx australis,,species,369211,Pleistocene,0.126,0.0117,29521,170.968063,-45.125557,NZ,gp_mid,170.97,-45.13,807
+Protorhea azarae,,species,146076,Miocene,6.8,4,29788,-61,-38,AR,gp_mid,-60.09,-37.82,202
+Rhea subpampeana,,species,146077,Miocene,23.03,5.333,29788,-58.016109,-35.565556,AR,gp_mid,-55.55,-35.3,202
+Rhea pampeana,,species,146078,Pleistocene,0.126,0.0117,29788,-59.250832,-34.63028,AR,gp_mid,-59.25,-34.63,202
+Rhea fossilis,,species,146079,Neogene,23.03,2.588,29788,-57.59,-37.979721,AR,gp_mid,-55.5,-37.71,202
+Aepyornis,,genus,39293,Holocene,0.0117,0,31261,46.633057,-25.19861,MG,gp_mid,46.63,-25.2,702
+Mullerornis,,genus,158291,Holocene,0.0117,0,31261,46.633057,-25.19861,MG,gp_mid,46.63,-25.2,702
+Dromaius,,genus,173845,Pleistocene,0.126,0.0117,31334,144.733337,-37.266666,AU,gp_mid,144.73,-37.27,801
+Rheidae,,family,39283,Holocene,0.0117,0,31534,-60.384724,-37,AR,gp_mid,-60.38,-37,202
+Ratitae,,unranked clade,65004,Eocene,38,33.9,34464,-56.645557,-64.239723,AA,gp_mid,-66.25,-62.82,803
+Struthio camelus australis,,subspecies,368907,Pleistocene,0.126,0.0117,37298,18.4333,-33.666698,ZA,gp_mid,18.43,-33.67,701
+Struthio camelus australis,,subspecies,368907,Miocene,7.246,2.588,37298,18.109268,-32.960178,ZA,gp_mid,17.59,-34.25,701
+Struthio,,genus,39278,Miocene,7.246,2.588,37298,18.109268,-32.960178,ZA,gp_mid,17.59,-34.25,701
+Struthio camelus australis,,subspecies,368907,Pleistocene,2.588,0,37298,18.233299,-33.116699,ZA,gp_mid,18.13,-33.38,701
+Struthio camelus australis,,subspecies,368907,Pleistocene,2.588,0.0117,37298,18.6833,-34.083302,ZA,gp_mid,18.58,-34.34,701
+Struthionidae,,family,39276,Pliocene,5.333,2.588,37348,17.2875,-30.320557,ZA,gp_mid,16.91,-31.34,701
+Struthionidae,,family,39276,Pliocene,3.6,2.588,37350,-7.65,33.583332,MA,gp_mid,-7.16,33.08,707
+Remiornis heberti,,species,203064,Paleocene,59.2,56,38160,4.15,49.266666,FR,gp_mid,11.53,39.21,315
+Remiornis heberti,,species,203064,Paleocene,59.2,56,38160,4.1,49.266666,FR,gp_mid,11.49,39.21,315
+Ratitae,,unranked clade,65004,Eocene,37.2,33.9,57894,-56.665833,-64.241386,AA,gp_mid,-66.27,-62.82,803
+Eremopezus eocaenus,,species,86260,Oligocene,33.9,28.1,38655,30.583332,29.450001,EG,gp_mid,31.91,20.56,715
+Struthio asiaticus,,species,223880,Pliocene,3.6,2.588,40450,-7.65,33.583332,MA,gp_mid,-7.16,33.08,707
+Dinornithidae,,family,39295,Miocene,19,15.9,41012,169.749161,-44.876945,NZ,gp_mid,-175.75,-46.41,807
+Lithornis celetius,,species,246695,Paleocene,61.7,56.8,42880,-110.5,45.799999,US,gp_mid,-77.27,55,101
+Lithornis promiscuus,,species,246696,Paleocene,56.8,55.8,42880,-109,44.299999,US,gp_mid,-78.79,52.74,101
+Lithornis plebius,,species,246697,Paleocene,56.8,55.8,42880,-109,44.299999,US,gp_mid,-78.79,52.74,101
+Pseudocrypturus cercanaxius,,species,246698,Eocene,55.8,50.3,42880,-110.734001,41.7784,US,gp_mid,-84.13,50.14,101
+Lithornithidae,,family,98813,Eocene,48.6,37.2,42880,-110.231667,41.041389,US,gp_mid,-90.12,48.26,101
+Struthio,,genus,39278,Miocene,11.608,5.333,43778,7.2989,36.730999,DZ,gp_mid,,,N/A
+Eremopezus eocaenus,,species,86260,Oligocene,33.9,28.1,43795,30.5,29.5,EG,gp_mid,31.83,20.62,715
+Nothura,,genus,39271,Pleistocene,0.781,0.012,45666,-57.834721,-38.283611,AR,gp_mid,-57.83,-38.28,202
+Eudromia elegans,,species,399853,Miocene,6.8,4,48790,-61.695278,-38.966946,AR,gp_mid,-60.8,-38.78,202
+Eudromia elegans,,species,399853,Miocene,6.8,4,48790,-61.695278,-38.966946,AR,gp_mid,-60.8,-38.78,202
+Aepyornithidae,,family,39292,Miocene,23.03,15.97,43783,20.5,28,LY,gp_mid,21.83,22.67,715
+Crypturellus transfasciatus,,species,369144,Pleistocene,0.126,0.0117,50354,-80.5,-4.7,PE,gp_mid,-80.5,-4.7,201
+Tinamisornis parvulus,,species,290149,Miocene,6.8,4,50475,-61,-38,AR,gp_mid,-60.09,-37.82,202
+Tinamisornis intermedius,,species,290150,Miocene,6.8,4,50475,-61,-38,AR,gp_mid,-60.09,-37.82,202
+Geranoididae,,family,39485,Bridgerian,50.3,46.2,53349,-110.5,41.200001,US,gp_mid,-87.37,48.83,101
+Lithornis,,genus,39264,Paleocene,61.7,56.8,53483,-117.76667,35.5,US,gp_mid,-90.55,46.82,101
+Remiornis,,genus,39558,Paleocene,58.7,55.8,75867,2.735556,49.34861,FR,gp_mid,10.23,39.54,315
+Dinornithiformes,,order,39294,Miocene,19,15.9,57475,169.858337,-44.908054,NZ,gp_mid,-175.64,-46.44,807
+Dinornithiformes,,order,39294,Miocene,19,15.9,57475,169.837784,-44.889442,NZ,gp_mid,-175.66,-46.42,807
+Dinornithiformes,,order,39294,Pleistocene,2.588,0.0117,57467,175.365005,-40.004723,NZ,gp_mid,175.76,-40.33,806
+Dinornithiformes,,order,39294,Miocene,19,15.9,57475,169.749451,-44.87722,NZ,gp_mid,-175.75,-46.41,807
+Dinornithiformes,,order,39294,Miocene,19,15.9,57475,169.749756,-44.878078,NZ,gp_mid,-175.75,-46.41,807
+Dinornithiformes,,order,39294,Miocene,19,15.9,57475,169.858215,-44.90794,NZ,gp_mid,-175.64,-46.44,807
+Proapteryx micromeros,,species,333951,Miocene,19,15.9,57481,169.858398,-44.903591,NZ,gp_mid,-175.64,-46.44,807
+Proapteryx micromeros,,species,333951,Miocene,19,15.9,57481,169.858215,-44.90794,NZ,gp_mid,-175.64,-46.44,807
+Apteryx,,genus,39304,Holocene,0.0117,0,57646,175.063339,-38.381111,NZ,gp_mid,175.06,-38.38,806
+Ergilornithidae,,family,39494,Oligocene,28.4,23.03,57669,57.181389,50.298058,KZ,gp_mid,56.29,45.62,302
+Palaeognathae,,superorder,39261,Eocene,38,33.9,57798,-56.645832,-64.241943,AA,gp_mid,-66.25,-62.82,803
+Opisthodactylus patagonicus,,species,246678,Miocene,17.5,16.3,58178,-70,-50,AR,gp_mid,-67.65,-49.34,291
+Dromaius novaehollandiae,,species,164088,Pleistocene,2.588,0.0117,58701,140.766663,-36.965279,AU,gp_mid,140.88,-37.59,801
+Dromaius novaehollandiae,,species,164088,Pleistocene,2.588,0.0117,36547,140.869446,-36.998611,AU,gp_mid,140.99,-37.62,801
+Dromaius novaehollandiae,,species,164088,Pleistocene,2.588,0.0117,58806,140.766663,-36.965279,AU,gp_mid,140.88,-37.59,801
+Anomalopteryx didiformis,,species,335241,Holocene,0.0117,0,60481,176.550003,-39.25,NZ,gp_mid,176.55,-39.25,806
+Dinornis,,genus,39297,Holocene,0.0117,0,60544,168.366669,-44.849998,NZ,gp_mid,168.37,-44.85,807
+Pachyornis elephantopus,,species,143730,Holocene,0.0117,0,60544,168.366669,-44.849998,NZ,gp_mid,168.37,-44.85,807
+Anomalopteryx didiformis,,species,335241,Holocene,0.0117,0,60544,168.366669,-44.849998,NZ,gp_mid,168.37,-44.85,807
+Megalapteryx didinus,,species,369701,Holocene,0.0117,0,60544,168.366669,-44.849998,NZ,gp_mid,168.37,-44.85,807
+Aepyornis,,genus,39293,Holocene,0.0117,0,60479,45.60611,-22.50111,MG,gp_mid,45.61,-22.5,702
+Euryapteryx geranoides,,species,143733,Pleistocene,0.126,0,60969,172.809006,-40.883141,NZ,gp_mid,172.81,-40.88,806
+Dinornis novaezealandiae,,species,369698,Pleistocene,0.126,0,60969,172.809006,-40.883141,NZ,gp_mid,172.81,-40.88,806
+Pachyornis australis,,species,401554,Pleistocene,0.126,0,60969,172.809006,-40.883141,NZ,gp_mid,172.81,-40.88,806
+Apteryx,,genus,39304,Pleistocene,0.126,0,60969,172.809006,-40.883141,NZ,gp_mid,172.81,-40.88,806
+Anomalopteryx didiformis,,species,335241,Pleistocene,0.126,0,60969,172.916565,-41.021183,NZ,gp_mid,172.92,-41.02,806
+Pachyornis,,genus,39301,Pleistocene,0.126,0,60969,172.916565,-41.021183,NZ,gp_mid,172.92,-41.02,806
+Apteryx,,genus,39304,Pleistocene,0.126,0,60969,172.916565,-41.021183,NZ,gp_mid,172.92,-41.02,806
+Dinornithiformes,,order,39294,Pleistocene,0.126,0,60969,172.901108,-41,NZ,gp_mid,172.9,-41,806
+Euryapteryx,,genus,39299,Pleistocene,0.126,0,60969,172.901108,-41,NZ,gp_mid,172.9,-41,806
+Dinornis struthoides,,species,143738,Pleistocene,0.126,0,60969,172.901108,-41,NZ,gp_mid,172.9,-41,806
+Anomalopteryx didiformis,,species,335241,Pleistocene,0.126,0,60969,172.901108,-41,NZ,gp_mid,172.9,-41,806
+Pachyornis elephantopus,,species,143730,Pleistocene,0.126,0,60969,172.901108,-41.018333,NZ,gp_mid,172.9,-41.02,806
+Anomalopteryx didiformis,,species,335241,Pleistocene,0.126,0,60969,172.916565,-41.021183,NZ,gp_mid,172.92,-41.02,806
+Pachyornis elephantopus,,species,143730,Pleistocene,0.126,0,60969,172.916565,-41.021183,NZ,gp_mid,172.92,-41.02,806
+Dinornis struthoides,,species,143738,Pleistocene,0.126,0,60969,172.916565,-41.021183,NZ,gp_mid,172.92,-41.02,806
+Dinornithiformes,,order,39294,Pleistocene,0.126,0,60969,172.916565,-41.021183,NZ,gp_mid,172.92,-41.02,806
+Euryapteryx geranoides,,species,143733,Pleistocene,0.126,0,60969,172.916565,-41.021183,NZ,gp_mid,172.92,-41.02,806
+Megalapteryx didinus,,species,369701,Pleistocene,0.126,0,60969,172.916565,-41.021183,NZ,gp_mid,172.92,-41.02,806
+Apteryx,,genus,39304,Pleistocene,0.126,0,60969,172.916565,-41.021183,NZ,gp_mid,172.92,-41.02,806
+Pachyornis australis,,species,401554,Pleistocene,2.588,0,60969,172.916565,-41.021183,NZ,gp_mid,173.32,-41.38,806
+Pachyornis elephantopus,,species,143730,Pleistocene,2.588,0,60969,172.916565,-41.021183,NZ,gp_mid,173.32,-41.38,806
+Anomalopteryx didiformis,,species,335241,Pleistocene,2.588,0,60969,172.916565,-41.021183,NZ,gp_mid,173.32,-41.38,806
+Megalapteryx didinus,,species,369701,Pleistocene,2.588,0,60969,172.916565,-41.021183,NZ,gp_mid,173.32,-41.38,806
+Euryapteryx geranoides,,species,143733,Pleistocene,2.588,0,60969,172.916565,-41.021183,NZ,gp_mid,173.32,-41.38,806
+Pachyornis,,genus,39301,Pleistocene,2.588,0,60969,172.916565,-41.021183,NZ,gp_mid,173.32,-41.38,806
+Apteryx,,genus,39304,Pleistocene,0.126,0,60969,172.916565,-41.021183,NZ,gp_mid,172.92,-41.02,806
+Dinornithiformes,,order,39294,Pleistocene,0.126,0,60969,172.916565,-41.021183,NZ,gp_mid,172.92,-41.02,806
+Emuarius gidju,,species,53358,Miocene,23.03,15.97,61085,146.492294,-26.8507,AU,gp_mid,149.18,-36.83,801
+Dromaius novaehollandiae,,species,164088,Pleistocene,0.126,0.0117,60529,132.689194,-31.952801,AU,gp_mid,132.69,-31.95,801
+Struthio asiaticus,,species,223880,Miocene,13.82,11.62,60839,33.013058,46.779446,UA,gp_mid,33.63,44.06,302
+Opisthodactylus kirchneri,,species,353499,Miocene,6.8,3,62319,-66.033333,-26.683332,AR,gp_mid,-64.93,-26.45,291
+Struthio,,genus,39278,Miocene,11.62,7.246,62968,28.685955,47.250313,MD,gp_mid,29.24,45.4,302
+Rhea americana,,species,83730,Holocene,0.0117,0,62994,-64.04528,-27.81889,AR,gp_mid,-64.05,-27.82,291
+Eudromia,,genus,39269,Pleistocene,0.126,0,64442,-58.695278,-34.913334,AR,gp_mid,-58.7,-34.91,202
+Rheidae,,family,39283,Pleistocene,0.126,0.0117,64443,-62.559723,-31.045,AR,gp_mid,-62.56,-31.05,202
+Struthio,,genus,39278,Pliocene,3.6,2.588,64486,30.317053,30.370766,EG,gp_mid,,,N/A
+Amphipelargus,,genus,39495,Miocene,8.7,5.333,65728,23.473372,40.034824,GR,gp_mid,24.2,38.13,308
+Pachyornis elephantopus,,species,143730,Holocene,0.0117,0,66128,174.195007,-41.7225,NZ,gp_mid,174.2,-41.72,806
+Euryapteryx geranoides,,species,143733,Holocene,0.0117,0,66128,174.195007,-41.7225,NZ,gp_mid,174.2,-41.72,806
+Emeus crassus,,species,143735,Holocene,0.0117,0,66128,174.195007,-41.7225,NZ,gp_mid,174.2,-41.72,806
+Emeidae,,family,143729,Holocene,0.0117,0,66128,174.195007,-41.7225,NZ,gp_mid,174.2,-41.72,806
+Dinornis giganteus,,species,143739,Holocene,0.0117,0,66128,174.195007,-41.7225,NZ,gp_mid,174.2,-41.72,806
+Apteryx australis,,species,369211,Holocene,0.0117,0,66128,174.195007,-41.7225,NZ,gp_mid,174.2,-41.72,806
+Apteryx,,genus,39304,Holocene,0.0117,0,66128,174.195007,-41.7225,NZ,gp_mid,174.2,-41.72,806
+Euryapteryx geranoides,,species,143733,Holocene,0.0117,0,66128,174.195007,-41.7225,NZ,gp_mid,174.2,-41.72,806
+Emeus crassus,,species,143735,Holocene,0.0117,0,66128,174.195007,-41.7225,NZ,gp_mid,174.2,-41.72,806
+Emeidae,,family,143729,Holocene,0.0117,0,66128,174.195007,-41.7225,NZ,gp_mid,174.2,-41.72,806
+Apteryx australis,,species,369211,Holocene,0.0117,0,66128,174.195007,-41.7225,NZ,gp_mid,174.2,-41.72,806
+Apteryx,,genus,39304,Holocene,0.0117,0,66128,174.195007,-41.7225,NZ,gp_mid,174.2,-41.72,806
+Pachyornis elephantopus,,species,143730,Holocene,0.0117,0,66128,174.195007,-41.7225,NZ,gp_mid,174.2,-41.72,806
+Apteryx australis,,species,369211,Holocene,0.0117,0,66128,174.195007,-41.7225,NZ,gp_mid,174.2,-41.72,806
+Aepyornis,,genus,39293,Pleistocene,0.126,0,66293,43.976849,-22.91367,MG,gp_mid,43.98,-22.91,702
+Aepyornis,,genus,39293,Pleistocene,0.126,0,66297,47.833332,-16.316668,MG,gp_mid,47.83,-16.32,702
+Mullerornis,,genus,158291,Pleistocene,0.126,0,66297,47.833332,-16.316668,MG,gp_mid,47.83,-16.32,702
+Aepyornis,,genus,39293,Pleistocene,0.126,0,66297,47.033333,-19.866667,MG,gp_mid,47.03,-19.87,702
+Mullerornis,,genus,158291,Pleistocene,0.126,0,66297,47.033333,-19.866667,MG,gp_mid,47.03,-19.87,702
+Aepyornis,,genus,39293,Holocene,0.0117,0,66297,44.733334,-22.083332,MG,gp_mid,44.73,-22.08,702
+Mullerornis,,genus,158291,Holocene,0.0117,0,66297,44.733334,-22.083332,MG,gp_mid,44.73,-22.08,702
+Apteryx australis,,species,369211,Holocene,0.0117,0,66377,167.764999,-46.924999,NZ,gp_mid,167.76,-46.92,807
+Struthio karatheodoris,,species,369682,Miocene,11.608,5.333,72832,23.317223,38.921112,GR,gp_mid,24.11,36.74,307
+Struthio karatheodoris,,species,369682,Miocene,11.608,5.333,67327,23.475834,41.460556,BG,gp_mid,24.34,39.28,308
+Struthio karatheodoris,,species,369682,Miocene,11.608,5.333,67327,23.866667,41.5,BG,gp_mid,24.72,39.31,308
+Struthio karatheodoris,,species,369682,MN 11,8.7,7.75,67329,23.700001,40.233334,GR,gp_mid,24.52,38.05,308
+Calciavis grandei,,species,379324,Eocene,55.8,50.3,67483,-110.666664,41.666668,US,gp_mid,-84.1,50.02,101
+Struthio,,genus,39278,Pliocene,5.333,3.6,67604,29.9275,46.803612,MD,gp_mid,30.14,45.99,302
+Struthio camelus,,species,223891,Pleistocene,0.781,0.0117,67654,26.0695,-28.7682,ZA,gp_mid,26.07,-28.77,701
+Nothura,,genus,39271,Miocene,6.8,4,67741,-61.695278,-38.966946,AR,gp_mid,-60.8,-38.78,202
+Eudromia elegans,,species,399853,Miocene,6.8,4,67741,-61.695278,-38.966946,AR,gp_mid,-60.8,-38.78,202
+Eudromia olsoni,,species,246669,Miocene,6.8,4,67741,-61.695278,-38.966946,AR,gp_mid,-60.8,-38.78,202
+Heterorhea dabbenei,,species,246675,Miocene,6.8,4,67741,-61.695278,-38.966946,AR,gp_mid,-60.8,-38.78,202
+Hinasuri nehuensis,,species,380826,Miocene,6.8,4,67741,-61.695278,-38.966946,AR,gp_mid,-60.8,-38.78,202
+Nothura darwinii,,species,372661,Pleistocene,0.781,0.126,67741,-61.766666,-38.5,AR,gp_mid,-61.77,-38.5,202
+Lithornithidae,,family,98813,Paleocene,61.6,59.2,68780,4.999722,50.711109,BE,gp_mid,12.55,40.14,315
+Lithornithidae,,family,98813,Paleocene,59.2,56,68780,3.169167,50.526669,FR,gp_mid,10.83,40.51,315
+Struthio,,genus,39278,Miocene,11.608,5.333,69231,26.906389,37.727501,GR,gp_mid,27.33,36.1,504
+Aepyornis hildebrandti,,species,369788,Pleistocene,0.126,0.0117,70217,47.166668,-19.6,MG,gp_mid,47.17,-19.6,702
+Mullerornis,,genus,158291,Pleistocene,0.126,0.0117,70217,47.166668,-19.6,MG,gp_mid,47.17,-19.6,702
+Aepyornis hildebrandti,,species,369788,Pleistocene,0.126,0.0117,70217,47.166668,-19.6,MG,gp_mid,47.17,-19.6,702
+Mullerornis,,genus,158291,Pleistocene,0.126,0.0117,70217,47.166668,-19.6,MG,gp_mid,47.17,-19.6,702
+Struthio chersonensis,,species,246672,MN 16,3.2,2.588,70370,22.945833,39.366669,GR,gp_mid,23.26,38.55,307
+Rhea,,genus,83729,Miocene,21,17.5,70727,-68.544998,-34.961666,AR,gp_mid,-64.67,-34.4,291
+Struthio asiaticus,,species,223880,MN 12,7.75,7.246,71048,30.42639,46.897221,UA,gp_mid,30.78,45.47,302
+Crypturellus reai,,species,401221,Miocene,17.5,16.3,71245,-69.216667,-50.549999,AR,gp_mid,-66.93,-49.92,291
+Opisthodactylus patagonicus,,species,246678,Miocene,17.5,16.3,72465,-71.900002,-47.52,AR,gp_mid,-69.32,-46.8,291
+Struthio,,genus,39278,Miocene,11.608,5.333,72518,-6.555556,31.060556,MA,gp_mid,-5.4,29.68,714
+Dromaius novaehollandiae,,species,164088,Pleistocene,0.126,0.0117,72520,148.349106,-21.708883,AU,gp_mid,148.35,-21.71,801
+Dromaius novaehollandiae,,species,164088,Pleistocene,0.126,0.0117,72520,148.349106,-21.708883,AU,gp_mid,148.35,-21.71,801
+Nothura,,genus,39271,Pleistocene,0.781,0.012,72593,-59.115555,-38.196667,AR,gp_mid,-59.12,-38.2,202
+Eudromia,,genus,39269,Pleistocene,0.781,0.012,72593,-59.115555,-38.196667,AR,gp_mid,-59.12,-38.2,202
+Struthio linxiaensis,,species,420480,MN 12,7.75,4.9,72621,103.633331,35.450001,CN,gp_mid,102.6,34.85,604
+Struthio karatheodoris,,species,369682,Miocene,11.608,5.333,72832,23.322222,38.921944,GR,gp_mid,24.12,36.74,307
+Opisthodactylus patagonicus,,species,246678,Miocene,17.5,16.3,72911,-69.719719,-50.208889,AR,gp_mid,-67.39,-49.56,291
+Tinamidae,,family,39268,Miocene,17.5,16.3,72911,-69.719719,-50.208889,AR,gp_mid,-67.39,-49.56,291
+Opisthodactylus patagonicus,,species,246678,Miocene,17.5,16.3,72911,-71.069443,-50.254723,AR,gp_mid,-68.73,-49.56,291
+Rhea,,genus,83729,Miocene,9,6.8,72946,-60.416668,-31.683332,AR,gp_mid,-58.63,-31.46,202
+Opisthodactylus patagonicus,,species,246678,Miocene,17.5,16.3,72947,-68.900002,-50.316666,AR,gp_mid,-66.6,-49.7,291
+Rhea,,genus,83729,Miocene,9,6.8,72948,-63.549999,-37.216667,AR,gp_mid,-61.89,-36.93,202
+Eudromia,,genus,39269,Miocene,9,6.8,72948,-63.549999,-37.216667,AR,gp_mid,-61.89,-36.93,202
+Nothura,,genus,39271,Miocene,9,6.8,72948,-63.549999,-37.216667,AR,gp_mid,-61.89,-36.93,202
+Nothura,,genus,39271,Miocene,9,6.8,72948,-64.283333,-36.700001,AR,gp_mid,-62.61,-36.4,202
+Eudromia,,genus,39269,Miocene,9,4,72948,-64.668892,-35.693611,AR,gp_mid,-63.22,-35.41,291
+Nothura,,genus,39271,Miocene,9,6.8,72948,-64.26667,-36.316666,AR,gp_mid,-62.58,-36.02,202
+Nothura,,genus,39271,Miocene,9,6.8,72948,-64.550003,-37.216667,AR,gp_mid,-62.89,-36.92,291
+Opisthodactylus horacioperezi,,species,422931,Miocene,21,17.5,72949,-67.75,-39.133331,AR,gp_mid,-64.15,-38.59,291
+Rhea,,genus,83729,Pleistocene,0.126,0.0117,73155,-42.462223,-8.860833,BR,gp_mid,-42.46,-8.86,201
+Dinornithidae,,family,39295,Holocene,0.0117,0,74304,170.98642,-44.176102,NZ,gp_mid,,,N/A
+Anomalopteryx didiformis,,species,335241,Holocene,0.0117,0,74304,170.87088,-44.329788,NZ,gp_mid,,,N/A
+Anomalopteryx didiformis,,species,335241,Holocene,0.0117,0,74304,170.991867,-44.49007,NZ,gp_mid,,,N/A
+Anomalopteryx didiformis,,species,335241,Holocene,0.0117,0,74304,171.039185,-44.437168,NZ,gp_mid,,,N/A
+Emeus crassus,,species,143735,Holocene,0.0117,0,74304,171.032547,-44.447861,NZ,gp_mid,,,N/A
+Megalapteryx didinus,,species,369701,Holocene,0.0117,0,74304,171.011993,-44.422894,NZ,gp_mid,,,N/A
+Pachyornis elephantopus,,species,143730,Holocene,0.0117,0,74304,171.031403,-44.444241,NZ,gp_mid,,,N/A
+Pachyornis elephantopus,,species,143730,Holocene,0.0117,0,74304,171.032074,-44.44315,NZ,gp_mid,,,N/A
+Pachyornis elephantopus,,species,143730,Holocene,0.0117,0,74304,170.991867,-44.49007,NZ,gp_mid,,,N/A
+Pachyornis elephantopus,,species,143730,Holocene,0.0117,0,74304,170.87088,-44.329788,NZ,gp_mid,,,N/A
+Euryapteryx geranoides,,species,143733,Holocene,0.0117,0,74304,170.87088,-44.329788,NZ,gp_mid,,,N/A
+Euryapteryx geranoides,,species,143733,Holocene,0.0117,0,74304,170.991867,-44.49007,NZ,gp_mid,,,N/A
+Emeus crassus,,species,143735,Holocene,0.0117,0,74304,171.032074,-44.44315,NZ,gp_mid,,,N/A
+Euryapteryx geranoides,,species,143733,Holocene,0.0117,0,74304,171.011993,-44.422894,NZ,gp_mid,,,N/A
+Emeus crassus,,species,143735,Holocene,0.0117,0,74304,170.87088,-44.329788,NZ,gp_mid,,,N/A
+Emeus crassus,,species,143735,Holocene,0.0117,0,74304,170.957794,-44.28183,NZ,gp_mid,,,N/A
+Dinornis struthoides,,species,143738,Holocene,0.0117,0,74304,170.87088,-44.329788,NZ,gp_mid,,,N/A
+Dinornis novaezealandiae,,species,369698,Holocene,0.0117,0,74304,171.25,-44.443447,NZ,gp_mid,,,N/A
+Dinornis giganteus,,species,143739,Holocene,0.0117,0,74304,170.87088,-44.329788,NZ,gp_mid,,,N/A
+Dinornis giganteus,,species,143739,Holocene,0.0117,0,74304,171.032547,-44.447861,NZ,gp_mid,,,N/A
+Dinornis giganteus,,species,143739,Holocene,0.0117,0,74304,171.030136,-44.445122,NZ,gp_mid,,,N/A
+Apteryx,,genus,39304,Holocene,0.0117,0,74304,170.87088,-44.329788,NZ,gp_mid,,,N/A
+Apteryx australis,,species,369211,Holocene,0.0117,0,74304,171.031403,-44.444241,NZ,gp_mid,,,N/A
+Apteryx australis,,species,369211,Holocene,0.0117,0,74304,171.03006,-44.448296,NZ,gp_mid,,,N/A
+Apteryx,,genus,39304,Holocene,0.0117,0,74304,171.024933,-44.450432,NZ,gp_mid,,,N/A
+Emeus crassus,,species,143735,Holocene,0.0117,0,74304,171.031403,-44.444241,NZ,gp_mid,,,N/A
+Emeus crassus,,species,143735,Holocene,0.0117,0,74304,171.03006,-44.448296,NZ,gp_mid,,,N/A
+Anomalopteryx,,genus,39296,Holocene,0.0117,0,74304,171.25,-44.443447,NZ,gp_mid,,,N/A
+Apteryx australis,,species,369211,Holocene,0.0117,0,74304,170.781754,-44.191952,NZ,gp_mid,,,N/A
+Apteryx owenii,,species,399824,Holocene,0.0117,0,74304,170.781754,-44.191952,NZ,gp_mid,,,N/A
+Pachyornis elephantopus,,species,143730,Holocene,0.0117,0,74304,170.781754,-44.191952,NZ,gp_mid,,,N/A
+Euryapteryx geranoides,,species,143733,Holocene,0.0117,0,74304,170.781754,-44.191952,NZ,gp_mid,,,N/A
+Emeus crassus,,species,143735,Holocene,0.0117,0,74304,170.781754,-44.191952,NZ,gp_mid,,,N/A
+Emeus,,genus,39298,Holocene,0.0117,0,74304,170.781754,-44.191952,NZ,gp_mid,,,N/A
+Pachyornis,,genus,39301,Holocene,0.0117,0,74304,170.781754,-44.191952,NZ,gp_mid,,,N/A
+Dinornis,,genus,39297,Holocene,0.0117,0,74304,170.781754,-44.191952,NZ,gp_mid,,,N/A
+Dinornis struthoides,,species,143738,Holocene,0.0117,0,74304,170.781754,-44.191952,NZ,gp_mid,,,N/A
+Dinornis,,genus,39297,Holocene,0.0117,0,74304,170.781754,-44.191952,NZ,gp_mid,,,N/A
+Dinornis giganteus,,species,143739,Holocene,0.0117,0,74304,170.781754,-44.191952,NZ,gp_mid,,,N/A
+Apteryx,,genus,39304,Holocene,0.0117,0,74304,171.011993,-44.422894,NZ,gp_mid,,,N/A
+Dinornithidae,,family,39295,Holocene,0.0117,0,74304,169.174576,-45.269279,NZ,gp_mid,,,N/A
+Dinornithiformes,,order,39294,Holocene,0.0117,0,74304,171.020828,-44.194698,NZ,gp_mid,,,N/A
+Apteryx australis,,species,369211,Holocene,0.0117,0,74304,170.87088,-44.329788,NZ,gp_mid,,,N/A
+Apteryx owenii,,species,399824,Holocene,0.0117,0,74304,170.87088,-44.329788,NZ,gp_mid,,,N/A
+Emeidae,,family,143729,Holocene,0.0117,0,74304,170.87088,-44.329788,NZ,gp_mid,,,N/A
+Dinornithidae,,family,39295,Holocene,0.0117,0,74304,171.030731,-44.350609,NZ,gp_mid,,,N/A
+Pachyornis elephantopus,,species,143730,Holocene,0.0117,0,74304,170.779221,-44.265049,NZ,gp_mid,,,N/A
+Emeus crassus,,species,143735,Holocene,0.0117,0,74304,170.779221,-44.265049,NZ,gp_mid,,,N/A
+Dinornis,,genus,39297,Holocene,0.0117,0,74304,170.779221,-44.265049,NZ,gp_mid,,,N/A
+Euryapteryx geranoides,,species,143733,Holocene,0.0117,0,74304,170.779221,-44.265049,NZ,gp_mid,,,N/A
+Apteryx australis,,species,369211,Holocene,0.0117,0,74304,171.031906,-44.505459,NZ,gp_mid,,,N/A
+Megalapteryx didinus,,species,369701,Holocene,0.0117,0,74304,170.958847,-44.269699,NZ,gp_mid,,,N/A
+Apteryx australis,,species,369211,Holocene,0.0117,0,74304,171.030136,-44.445122,NZ,gp_mid,,,N/A
+Emeus crassus,,species,143735,Holocene,0.0117,0,74304,171.030136,-44.445122,NZ,gp_mid,,,N/A
+Pachyornis elephantopus,,species,143730,Holocene,0.0117,0,74304,171.030136,-44.445122,NZ,gp_mid,,,N/A
+Dinornis struthoides,,species,143738,Holocene,0.0117,0,74304,171.030136,-44.445122,NZ,gp_mid,,,N/A
+Galligeranoides boriensis,,species,428841,Eocene,56,47.8,74379,2.036667,43.332222,FR,gp_mid,8.53,34.46,305
+Lithornis vulturinus,,species,246687,Eocene,55.8,48.6,74648,0.837778,51.394722,UK,gp_mid,,,N/A
+Lithornis vulturinus,,species,246687,Eocene,56,47.8,74648,-0.683333,50.783333,UK,gp_mid,6.91,42.04,315
+Lithornis vulturinus,,species,246687,Paleocene,59.2,56,74648,1.125833,51.373611,UK,gp_mid,9.21,41.45,315
+Lithornis vulturinus,,species,246687,Eocene,56,47.8,74648,0.266667,51.700001,UK,gp_mid,,,N/A
+Lithornis vulturinus,,species,246687,Eocene,56,47.8,74648,-0.134811,51.50246,UK,gp_mid,,,N/A
+Lithornis vulturinus,,species,246687,Eocene,55.8,48.6,74648,0.837778,51.394722,UK,gp_mid,,,N/A
+Nothoprocta perdicaria,,species,399866,Pleistocene,0.126,0.0117,77298,-71.166664,-34.5,CL,gp_mid,-71.17,-34.5,291
+Struthio barbarus,,species,447802,Pleistocene,2.588,0.781,79068,2.752805,36.204037,DZ,gp_mid,,,N/A
+Dromaius arleyekweke,,species,430441,Miocene,11.608,5.333,80134,134.866669,-22.866667,AU,gp_mid,134.86,-28.08,801
+Sinoergilornis guangheensis,,species,452833,Miocene,11.608,5.333,80169,102.5,35.849998,CN,gp_mid,,,N/A
+Struthio,,genus,39278,Pliocene,3.6,2.588,80990,40.766579,11.54763,ET,gp_mid,,,N/A
+Struthio,,genus,39278,Pleistocene,2.588,1.806,80990,40.818771,11.61355,ET,gp_mid,,,N/A
+Struthio,,genus,39278,Pliocene,5.333,2.588,81900,33.958611,-10.054722,MW,gp_mid,,,N/A
+Opisthodactylus patagonicus,,species,246678,Miocene,17.5,16.3,82834,-70,-50,AR,gp_mid,-67.65,-49.34,291
+Tinamidae,,family,39268,Miocene,17.5,16.3,82834,-70,-50,AR,gp_mid,-67.65,-49.34,291
